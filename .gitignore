@@ -1,0 +1,12 @@
+# Build-Artefakte von LaTeX
+*.aux
+*.log
+*.out
+*.synctex.gz
+
+# Temporaere Vorschau-Bilder
+hk-*.png
+lf-*.png
+
+# Alte Versionen
+hauskreis_2026-10-08_v2.pdf
